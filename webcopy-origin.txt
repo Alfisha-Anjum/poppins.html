@@ -1,0 +1,1020 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/65150f6175f862fac1276a7a/651523a22a5918f465a7f27e_Team2.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\65150f6175f862fac1276a7a\651523a22a5918f465a7f27e_Team2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/65150f6175f862fac1276a7a/65192a70c04b47c8b1ffec18_Blog-Image-2.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\65150f6175f862fac1276a7a\65192a70c04b47c8b1ffec18_Blog-Image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d442_Change Log Icon.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d442_Change Log Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d446_Arrow Up right.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d446_Arrow Up right.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d449_Client Photo 4.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d449_Client Photo 4.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d449_Client%2520Photo%25204-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d449_Client%20Photo%204-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d44a_Client Photo 1.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d44a_Client Photo 1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d44a_Client%2520Photo%25201-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d44a_Client%20Photo%201-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d44d_Style Guide Icon.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d44d_Style Guide Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d45e_Client Photo 3.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d45e_Client Photo 3.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d45e_Client%2520Photo%25203-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d45e_Client%20Photo%203-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d45f_Hamburger.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d45f_Hamburger.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d462_Client Photo 6.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d462_Client Photo 6.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d462_Client%2520Photo%25206-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d462_Client%20Photo%206-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d463_Help Icon.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d463_Help Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d464_Logo To Use.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d464_Logo To Use.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d464_Logo%2520To%2520Use-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d464_Logo%20To%20Use-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d464_Logo%2520To%2520Use-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d464_Logo%20To%20Use-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d464_Logo%2520To%2520Use-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d464_Logo%20To%20Use-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d467_Integration Logo 6.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d467_Integration Logo 6.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-1080.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-500.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw-p-800.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d46d_unsplash_UjD4BnrA4kw.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d487_Integration Logo 3.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d487_Integration Logo 3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d489_Coolicons-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d489_Coolicons-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d489_Coolicons-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d489_Coolicons-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d489_Coolicons.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d489_Coolicons.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d48b_Chevon Down.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d48b_Chevon Down.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d48d_Integration Logo 5.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d48d_Integration Logo 5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d48e_Client Photo 5.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d48e_Client Photo 5.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d48e_Client%2520Photo%25205-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d48e_Client%20Photo%205-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d48f_Integration Logo 2.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d48f_Integration Logo 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d490_Integration Logo 4.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d490_Integration Logo 4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d493_About-Company-Image-1-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d493_About-Company-Image-1-p-500.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d493_About-Company-Image-1-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d493_About-Company-Image-1-p-800.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d493_About-Company-Image-1.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d493_About-Company-Image-1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-1080.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-500.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d494_About-Company-Image-3-p-800.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d494_About-Company-Image-3.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d494_About-Company-Image-3.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d495_Client Photo 2.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d495_Client Photo 2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d495_Client%2520Photo%25202-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d495_Client%20Photo%202-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d49b_Feature Icon 5.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d49b_Feature Icon 5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d49c_Feature Icon 4.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d49c_Feature Icon 4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d49d_Feature Icon 2.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d49d_Feature Icon 2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d49f_Feature Icon 6.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d49f_Feature Icon 6.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a1_Unsplash-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a1_Unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a1_Unsplash-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a1_Unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a1_Unsplash-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a1_Unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a1_Unsplash.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a1_Unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a2_Tick Mark.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a2_Tick Mark.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-1080.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-500.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a3_About-Company-Image-4-p-800.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a3_About-Company-Image-4.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a3_About-Company-Image-4.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a5_License Thumbnail 1.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a5_License Thumbnail 1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a5_License%2520Thumbnail%25201-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a5_License%20Thumbnail%201-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a5_License%2520Thumbnail%25201-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a5_License%20Thumbnail%201-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a5_License%2520Thumbnail%25201-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a5_License%20Thumbnail%201-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a6_64edd9e9379a9ff323d3ef93_unsplash_UjD4BnrA4kw.jpeg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a6_64edd9e9379a9ff323d3ef93_unsplash_UjD4BnrA4kw.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a7_About-Company-Image-2-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a7_About-Company-Image-2-p-500.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a7_About-Company-Image-2-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a7_About-Company-Image-2-p-800.jpg
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4a7_About-Company-Image-2.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4a7_About-Company-Image-2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4c8_Integeration Line.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4c8_Integeration Line.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607a7c3c0e5cc14e410d4d8_Licensing Icon.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607a7c3c0e5cc14e410d4d8_Licensing Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607b34e82e6cf1ffe780a1b_Poppins Sitelogo.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607b34e82e6cf1ffe780a1b_Poppins Sitelogo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607ba69eaadd16a59ecd57f_Shopping_Bag_01.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607ba69eaadd16a59ecd57f_Shopping_Bag_01.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard-p-1600.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard-p-2000.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard-p-2000.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c2c268f48578d6c22cbf_Main Dashboard.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c2c268f48578d6c22cbf_Main Dashboard.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c3411a39038bfab13a1b_Dashboard Summary Card-1.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c3411a39038bfab13a1b_Dashboard Summary Card-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c34168f48578d6c29a24_Dashboard Summary Card.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c34168f48578d6c29a24_Dashboard Summary Card.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c34168f48578d6c29a29_Dashboard Summary Card-3.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c34168f48578d6c29a29_Dashboard Summary Card-3.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c3417ef712e71b48e6d6_Dashboard Summary Card-2.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c3417ef712e71b48e6d6_Dashboard Summary Card-2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607c341af7f72c2d5f637f4_Dashboard Summary Card-4.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607c341af7f72c2d5f637f4_Dashboard Summary Card-4.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607ed092dac2527efe36693_Chevron_Right.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607ed092dac2527efe36693_Chevron_Right.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d3f551ea6b799f6e3_Nextmove.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d3f551ea6b799f6e3_Nextmove.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d40e39c6921ff3bd0_Glossy.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d40e39c6921ff3bd0_Glossy.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d52bf8dea2032eb40_levelup.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d52bf8dea2032eb40_levelup.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d5929850b9cd839f5_ProNature.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d5929850b9cd839f5_ProNature.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d59b4dc08ac43901a_Iceberg.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d59b4dc08ac43901a_Iceberg.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6607f42d8d8302eabf431a66_U-Turn.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6607f42d8d8302eabf431a66_U-Turn.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6608351accae58b99b81e854_Feature1-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6608351accae58b99b81e854_Feature1-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6608351accae58b99b81e854_Feature1.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6608351accae58b99b81e854_Feature1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660836a2449188ec73169ffc_Feature2-p-500.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660836a2449188ec73169ffc_Feature2-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660836a2449188ec73169ffc_Feature2.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660836a2449188ec73169ffc_Feature2.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66083b6d05d68fa3fe61a451_designElement.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66083b6d05d68fa3fe61a451_designElement.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66083e117583bd4b8f907c02_Feature4-p-1080.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66083e117583bd4b8f907c02_Feature4-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66083e117583bd4b8f907c02_Feature4-p-500.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66083e117583bd4b8f907c02_Feature4-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66083e117583bd4b8f907c02_Feature4-p-800.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66083e117583bd4b8f907c02_Feature4-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66083e117583bd4b8f907c02_Feature4.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66083e117583bd4b8f907c02_Feature4.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660aa02f8e49b57ee24ce574_Small Dashboard-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660aa02f8e49b57ee24ce574_Small Dashboard-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660aa02f8e49b57ee24ce574_Small Dashboard-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660aa02f8e49b57ee24ce574_Small Dashboard-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660aa02f8e49b57ee24ce574_Small Dashboard-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660aa02f8e49b57ee24ce574_Small Dashboard-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660aa02f8e49b57ee24ce574_Small Dashboard.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660aa02f8e49b57ee24ce574_Small Dashboard.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660ac25bfe6650325d721640_Poppins Logo-p-500.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660ac25bfe6650325d721640_Poppins Logo-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660ac25bfe6650325d721640_Poppins Logo.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660ac25bfe6650325d721640_Poppins Logo.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660ac497e0f41f20deb146ca_Product..png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660ac497e0f41f20deb146ca_Product..png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660ad061964cbe0e07d3d9c7_Check Circle.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660ad061964cbe0e07d3d9c7_Check Circle.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a48eaa4dd22ae6e65_Feature_one 0101-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a48eaa4dd22ae6e65_Feature_one 0101.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a48eaa4dd22ae6e65_Feature_one 0101.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a8f1b61b886c1a827_Feature_one 0303-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a8f1b61b886c1a827_Feature_one 0303-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a8f1b61b886c1a827_Feature_one 0303-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a8f1b61b886c1a827_Feature_one 0303-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10a8f1b61b886c1a827_Feature_one 0303.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10a8f1b61b886c1a827_Feature_one 0303.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10aed884dfc4ae0df36_Feature_one 0202-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10aed884dfc4ae0df36_Feature_one 0202-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb10aed884dfc4ae0df36_Feature_one 0202.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb10aed884dfc4ae0df36_Feature_one 0202.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d63f6ba9c5b285ead5_Second Feature 02-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d63f6ba9c5b285ead5_Second Feature 02-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d63f6ba9c5b285ead5_Second Feature 02-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d63f6ba9c5b285ead5_Second Feature 02-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d63f6ba9c5b285ead5_Second Feature 02.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d63f6ba9c5b285ead5_Second Feature 02.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d69b8da89a54daa3b4_Second Feature 03-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d69b8da89a54daa3b4_Second Feature 03-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d69b8da89a54daa3b4_Second Feature 03-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d69b8da89a54daa3b4_Second Feature 03-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d69b8da89a54daa3b4_Second Feature 03.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d69b8da89a54daa3b4_Second Feature 03.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d69f19b759fc771610_Second Feature 01-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d69f19b759fc771610_Second Feature 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660bb5d69f19b759fc771610_Second Feature 01.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660bb5d69f19b759fc771610_Second Feature 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660be8c3a1c3aaec6a452e4c_X logo.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660be8c3a1c3aaec6a452e4c_X logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d08938258b1ea460ca002_facebook.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d08938258b1ea460ca002_facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d0893ca79d7ef99bcb1ec_LinkedIN.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d0893ca79d7ef99bcb1ec_LinkedIN.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d167b45d1a1ba61518144_Google.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d167b45d1a1ba61518144_Google.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d54df2dfab9a395f8fa4d_Arrow.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d54df2dfab9a395f8fa4d_Arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d6fbdb6677c6beb7c0424_Vector.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d6fbdb6677c6beb7c0424_Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d756aee19a75d355de171_Rayna UI 2-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d756aee19a75d355de171_Rayna UI 2-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d756aee19a75d355de171_Rayna UI 2-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d756aee19a75d355de171_Rayna UI 2-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660d756aee19a75d355de171_Rayna UI 2.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660d756aee19a75d355de171_Rayna UI 2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660e72311f54926ce2371574_Entertainment.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660e72311f54926ce2371574_Entertainment.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660e72319fffe7a5b8253197_Location.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660e72319fffe7a5b8253197_Location.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660e7231c68a3556ead2e93c_Remote.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660e7231c68a3556ead2e93c_Remote.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c5a26cb142f264ce9_Insturction 02-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c5a26cb142f264ce9_Insturction 02-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c5a26cb142f264ce9_Insturction 02-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c5a26cb142f264ce9_Insturction 02-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c5a26cb142f264ce9_Insturction 02-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c5a26cb142f264ce9_Insturction 02-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c5a26cb142f264ce9_Insturction 02.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c5a26cb142f264ce9_Insturction 02.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c6bab714f0009d4b2_Insturction 01-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c6bab714f0009d4b2_Insturction 01-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c6bab714f0009d4b2_Insturction 01-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c6bab714f0009d4b2_Insturction 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c6bab714f0009d4b2_Insturction 01-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c6bab714f0009d4b2_Insturction 01-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/660eb90c6bab714f0009d4b2_Insturction 01.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\660eb90c6bab714f0009d4b2_Insturction 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66110bf88101b845ca1ae760_Macbook-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66110bf88101b845ca1ae760_Macbook-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66110bf88101b845ca1ae760_Macbook-p-1600.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66110bf88101b845ca1ae760_Macbook-p-1600.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66110bf88101b845ca1ae760_Macbook-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66110bf88101b845ca1ae760_Macbook-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66110bf88101b845ca1ae760_Macbook-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66110bf88101b845ca1ae760_Macbook-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66110bf88101b845ca1ae760_Macbook.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66110bf88101b845ca1ae760_Macbook.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1ba9d7f3e69f65aff89_Create campaign-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1ba9d7f3e69f65aff89_Create campaign-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1ba9d7f3e69f65aff89_Create campaign-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1ba9d7f3e69f65aff89_Create campaign-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1ba9d7f3e69f65aff89_Create campaign-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1ba9d7f3e69f65aff89_Create campaign-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1ba9d7f3e69f65aff89_Create campaign.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1ba9d7f3e69f65aff89_Create campaign.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1bb0f4938979563c433_Settings-p-1080.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1bb0f4938979563c433_Settings-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1bb0f4938979563c433_Settings-p-500.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1bb0f4938979563c433_Settings-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1bb0f4938979563c433_Settings-p-800.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1bb0f4938979563c433_Settings-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/6612c1bb0f4938979563c433_Settings.webp
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\6612c1bb0f4938979563c433_Settings.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66138ae8314a52787347fa95_Favicon.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66138ae8314a52787347fa95_Favicon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/66138aeb073b640268fc4122_Webclip.png
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\66138aeb073b640268fc4122_Webclip.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/css/mi-poppins.webflow.30088ec7e.css
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\css\mi-poppins.webflow.30088ec7e.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d406/js/webflow.8a0560e72.js
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d406\js\webflow.8a0560e72.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d421_Team6-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d421_Team6-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d421_Team6.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d421_Team6.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d422_Team5-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d422_Team5-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d422_Team5.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d422_Team5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d423_Team3-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d423_Team3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d423_Team3-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d423_Team3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d423_Team3.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d423_Team3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d424_Team4-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d424_Team4-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d424_Team4-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d424_Team4-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d424_Team4.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d424_Team4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d425_Blog-Image-1-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d425_Blog-Image-1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d425_Blog-Image-1-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d425_Blog-Image-1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d425_Blog-Image-1-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d425_Blog-Image-1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d425_Blog-Image-1.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d425_Blog-Image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d426_Blog-Image-4-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d426_Blog-Image-4-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d426_Blog-Image-4-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d426_Blog-Image-4-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d426_Blog-Image-4.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d426_Blog-Image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d427_Blog-Image-3-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d427_Blog-Image-3-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d427_Blog-Image-3-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d427_Blog-Image-3-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d427_Blog-Image-3-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d427_Blog-Image-3-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d427_Blog-Image-3.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d427_Blog-Image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d428_Team1-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d428_Team1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d428_Team1-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d428_Team1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d428_Team1.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d428_Team1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d432_Recharge.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d432_Recharge.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d433_Leafe.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d433_Leafe.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d434_Hitech.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d434_Hitech.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/6607a7c3c0e5cc14e410d435_Automation.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\6607a7c3c0e5cc14e410d435_Automation.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0e70af5a30887f401f6_Usecase01-min-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0e70af5a30887f401f6_Usecase01-min-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0e70af5a30887f401f6_Usecase01-min-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0e70af5a30887f401f6_Usecase01-min-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0e70af5a30887f401f6_Usecase01-min.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0e70af5a30887f401f6_Usecase01-min.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0fc751a5853dc0174b0_Usecase02-min-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0fc751a5853dc0174b0_Usecase02-min-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0fc751a5853dc0174b0_Usecase02-min-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0fc751a5853dc0174b0_Usecase02-min-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0fc751a5853dc0174b0_Usecase02-min-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0fc751a5853dc0174b0_Usecase02-min-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf0fc751a5853dc0174b0_Usecase02-min.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf0fc751a5853dc0174b0_Usecase02-min.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf112d0c835a7e96dfa6d_Usecase03-min-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf112d0c835a7e96dfa6d_Usecase03-min-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf112d0c835a7e96dfa6d_Usecase03-min-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf112d0c835a7e96dfa6d_Usecase03-min-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf112d0c835a7e96dfa6d_Usecase03-min-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf112d0c835a7e96dfa6d_Usecase03-min-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf112d0c835a7e96dfa6d_Usecase03-min.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf112d0c835a7e96dfa6d_Usecase03-min.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf14ee66a25f8cd5c82db_Usecase04-min-p-1080.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf14ee66a25f8cd5c82db_Usecase04-min-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf14ee66a25f8cd5c82db_Usecase04-min-p-500.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf14ee66a25f8cd5c82db_Usecase04-min-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf14ee66a25f8cd5c82db_Usecase04-min-p-800.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf14ee66a25f8cd5c82db_Usecase04-min-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660cf14ee66a25f8cd5c82db_Usecase04-min.jpg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660cf14ee66a25f8cd5c82db_Usecase04-min.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660d7280aa2f30b36d44f530_Chart_Bar_Vertical_01.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660d7280aa2f30b36d44f530_Chart_Bar_Vertical_01.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660d72969586883738c97e8a_Files.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660d72969586883738c97e8a_Files.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660d72aa8aac87a882718030_Users_Group.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660d72aa8aac87a882718030_Users_Group.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6607a7c3c0e5cc14e410d41e/660d72b804c0400e56cb2851_File_Edit.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\6607a7c3c0e5cc14e410d41e\660d72b804c0400e56cb2851_File_Edit.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/img/email-72.67fa6be437.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\img\email-72.67fa6be437.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/img/thumbs-up-72.cbcaec93bc.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\img\thumbs-up-72.cbcaec93bc.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6607a7c3c0e5cc14e410d406
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://mi-poppins.webflow.io/
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/401
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\401.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/404
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\404.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/about
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/blog
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/checkout
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\checkout.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/contact-sales
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\contact-sales.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/feature
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\feature.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/integration/javascrap
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\integration\javascrap.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/integration/jetbrains
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\integration\jetbrains.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/integration/octane
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\integration\octane.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/integration/vim-code
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\integration\vim-code.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/job/ai-software-engineer
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\job\ai-software-engineer.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/job/customer-success-manager
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\job\customer-success-manager.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/job/devops-engineer
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\job\devops-engineer.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/job/ux-ui-designer
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\job\ux-ui-designer.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/log-in
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\log-in.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/post/crafting-compelling-content-with-our-saas-ai-software
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\post\crafting-compelling-content-with-our-saas-ai-software.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/post/how-our-ai-software-enhances-your-writing-efficiency
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\post\how-our-ai-software-enhances-your-writing-efficiency.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/post/how-our-ai-software-revolutionizes-your-content-marketing
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\post\how-our-ai-software-revolutionizes-your-content-marketing.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/post/using-ai-generated-content-from-our-saas-for-better-marketing
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\post\using-ai-generated-content-from-our-saas-for-better-marketing.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/pricing
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\pricing.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/privacy-policy
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\privacy-policy.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/basic-plan
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\basic-plan.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/basic-plan-yearly
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\basic-plan-yearly.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/business-plan
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\business-plan.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/business-plan-yearly
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\business-plan-yearly.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/enterprise-plan
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\enterprise-plan.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/product/enterprise-plan-2
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\enterprise-plan-2.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/sign-up
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\sign-up.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/david-miller
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\david-miller.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/elina-becker
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\elina-becker.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/jessica-adams
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\jessica-adams.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/levi-muron
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\levi-muron.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/michael-jordan
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\michael-jordan.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/team/sarah-thompson
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\team\sarah-thompson.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/templates/change-log
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\templates\change-log.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/templates/instructions
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\templates\instructions.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/templates/licenses
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\templates\licenses.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/templates/style-guide
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\templates\style-guide.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/terms-conditions
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\terms-conditions.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/use-case
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\use-case.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/use-case/code-review-and-quality-assurance
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\use-case\code-review-and-quality-assurance.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/use-case/cross-platform-development
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\use-case\cross-platform-development.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/use-case/project-migration-and-codebase-refactoring
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\use-case\project-migration-and-codebase-refactoring.html
+Content Type: text/html
+
+Uri: https://mi-poppins.webflow.io/use-case/streamlining-code-development
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\use-case\streamlining-code-development.html
+Content Type: text/html
+
