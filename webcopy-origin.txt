@@ -931,7 +931,7 @@ File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\basic-plan.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/product/basic-plan-yearly
-File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\basic-plan-yearly.html
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\plan-1.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/product/business-plan
@@ -939,7 +939,7 @@ File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\business-plan.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/product/business-plan-yearly
-File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\business-plan-yearly.html
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\plan-2.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/product/enterprise-plan
@@ -947,7 +947,7 @@ File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\enterprise-plan.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/product/enterprise-plan-2
-File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\enterprise-plan-2.html
+File Name: D:\Coflex\Webflow\mi-poppins.webflow.io\product\plan-3.html
 Content Type: text/html
 
 Uri: https://mi-poppins.webflow.io/sign-up

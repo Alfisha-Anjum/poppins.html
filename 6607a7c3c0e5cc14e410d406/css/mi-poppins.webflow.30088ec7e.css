@@ -263,7 +263,7 @@ html.w-mod-touch * {
   display: none;
 }
 
-.w-button {
+/* .w-button {
   color: #fff;
   line-height: inherit;
   cursor: pointer;
@@ -273,7 +273,7 @@ html.w-mod-touch * {
   padding: 9px 15px;
   text-decoration: none;
   display: inline-block;
-}
+} */
 
 input.w-button {
   -webkit-appearance: button;
@@ -291,7 +291,7 @@ pre.w-code-block code {
   all: inherit;
 }
 
-.w-webflow-badge, .w-webflow-badge * {
+/* .w-webflow-badge, .w-webflow-badge * {
   z-index: auto;
   visibility: visible;
   box-sizing: border-box;
@@ -342,9 +342,9 @@ pre.w-code-block code {
   right: auto;
   overflow: visible;
   transform: none;
-}
+} */
 
-.w-webflow-badge {
+/* .w-webflow-badge {
   white-space: nowrap;
   cursor: pointer;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .1);
@@ -369,14 +369,14 @@ pre.w-code-block code {
   right: 12px !important;
   overflow: visible !important;
   transform: none !important;
-}
+} */
 
-.w-webflow-badge > img {
+/* .w-webflow-badge > img {
   visibility: visible !important;
   opacity: 1 !important;
   vertical-align: middle !important;
   display: inline-block !important;
-}
+} */
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
@@ -4275,7 +4275,7 @@ figcaption {
 
 .footer-heading {
   color: var(--black);
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -5898,7 +5898,7 @@ figcaption {
 
 .grey-text {
   color: var(--light-paragraph-text-color);
-  font-size: 14px;
+  font-size: 19px;
 }
 
 .dropdown-toggle {
@@ -6669,7 +6669,9 @@ figcaption {
   }
 
   .social-media-link-image {
-    width: 100%;
+    width: 30px;
+    height: 20px;
+    
   }
 
   .help-side-nav {
