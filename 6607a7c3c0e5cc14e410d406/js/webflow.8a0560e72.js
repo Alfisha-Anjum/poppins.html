@@ -1652,15 +1652,16 @@ __p+='`),
             g = e("<img>")
               .attr(
                 "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
+                ""
               )
               .attr("alt", "")
               .css({ marginRight: "4px", width: "26px" }),
             v = e("<img>")
               .attr(
-               
+                "src",
+                ""
               )
-              .attr("alt", "Made in Webflow");
+              .attr("alt", "");
           return M.append(g, v), M[0];
         }
         function h() {
